@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaMundo", "OlaMundo\OlaMundo.csproj", "{04B01D41-BA1D-4321-8440-9A3774C3F3EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoVariaveis", "CriandoVariaveis\CriandoVariaveis.csproj", "{7DCAC5A2-0B2A-465F-9CA4-CBDBA5BB64DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoVariaveisPontoFlutuante", "CriandoVariaveisPontoFlutuante\CriandoVariaveisPontoFlutuante.csproj", "{E53BDB17-51D5-457D-9576-BEAB6E7D63C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{04B01D41-BA1D-4321-8440-9A3774C3F3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B01D41-BA1D-4321-8440-9A3774C3F3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04B01D41-BA1D-4321-8440-9A3774C3F3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCAC5A2-0B2A-465F-9CA4-CBDBA5BB64DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCAC5A2-0B2A-465F-9CA4-CBDBA5BB64DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCAC5A2-0B2A-465F-9CA4-CBDBA5BB64DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCAC5A2-0B2A-465F-9CA4-CBDBA5BB64DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53BDB17-51D5-457D-9576-BEAB6E7D63C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53BDB17-51D5-457D-9576-BEAB6E7D63C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53BDB17-51D5-457D-9576-BEAB6E7D63C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53BDB17-51D5-457D-9576-BEAB6E7D63C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
