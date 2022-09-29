@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioIRRF", "DesafioIRRF\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioIRRF2", "DesafioIRRF2\DesafioIRRF2.csproj", "{CC3BB6AB-65AC-43C6-B41C-D302E7A87EB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaPoupanca", "CalculaPoupanca\CalculaPoupanca.csproj", "{D9E5F468-19AA-4BDE-AA12-72238CDD1C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaPoupanca2", "CalculaPoupanca2\CalculaPoupanca2.csproj", "{F7C35AD8-43CA-4EA8-B782-B8975078F669}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{CC3BB6AB-65AC-43C6-B41C-D302E7A87EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC3BB6AB-65AC-43C6-B41C-D302E7A87EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC3BB6AB-65AC-43C6-B41C-D302E7A87EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E5F468-19AA-4BDE-AA12-72238CDD1C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E5F468-19AA-4BDE-AA12-72238CDD1C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E5F468-19AA-4BDE-AA12-72238CDD1C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E5F468-19AA-4BDE-AA12-72238CDD1C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C35AD8-43CA-4EA8-B782-B8975078F669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C35AD8-43CA-4EA8-B782-B8975078F669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C35AD8-43CA-4EA8-B782-B8975078F669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C35AD8-43CA-4EA8-B782-B8975078F669}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
