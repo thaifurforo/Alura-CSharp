@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais2", "Condiciona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escopo", "Escopo\Escopo.csproj", "{A85D24E2-78BD-47FF-A6F1-BEEAC820C80C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioIRRF", "DesafioIRRF\DesafioIRRF.csproj", "{3EEF4F07-1C05-451E-B10E-BC289259E370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{A85D24E2-78BD-47FF-A6F1-BEEAC820C80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A85D24E2-78BD-47FF-A6F1-BEEAC820C80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A85D24E2-78BD-47FF-A6F1-BEEAC820C80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEF4F07-1C05-451E-B10E-BC289259E370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEF4F07-1C05-451E-B10E-BC289259E370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEF4F07-1C05-451E-B10E-BC289259E370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEF4F07-1C05-451E-B10E-BC289259E370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
