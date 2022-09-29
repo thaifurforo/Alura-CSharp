@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaracteresETextos", "Caract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atribuições de Variáveis", "Atribuições de Variáveis\Atribuições de Variáveis.csproj", "{98BF5CE9-98F3-4494-85D6-D4E02FE16A39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais", "Condicionais\Condicionais.csproj", "{C18ED0CB-62F9-4B1A-B644-66A79FFB259F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{98BF5CE9-98F3-4494-85D6-D4E02FE16A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98BF5CE9-98F3-4494-85D6-D4E02FE16A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98BF5CE9-98F3-4494-85D6-D4E02FE16A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18ED0CB-62F9-4B1A-B644-66A79FFB259F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18ED0CB-62F9-4B1A-B644-66A79FFB259F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18ED0CB-62F9-4B1A-B644-66A79FFB259F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18ED0CB-62F9-4B1A-B644-66A79FFB259F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
