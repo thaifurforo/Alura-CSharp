@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncadeandoFor", "Encadeando
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplosDeTres", "MultiplosDeTres\MultiplosDeTres.csproj", "{2AED85FC-3846-4426-B429-97C54EC7BDE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFatorial", "DesafioFatorial\DesafioFatorial.csproj", "{451E09B5-9930-4C29-AB9F-C703F97B85E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{2AED85FC-3846-4426-B429-97C54EC7BDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AED85FC-3846-4426-B429-97C54EC7BDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AED85FC-3846-4426-B429-97C54EC7BDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451E09B5-9930-4C29-AB9F-C703F97B85E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451E09B5-9930-4C29-AB9F-C703F97B85E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451E09B5-9930-4C29-AB9F-C703F97B85E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451E09B5-9930-4C29-AB9F-C703F97B85E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
