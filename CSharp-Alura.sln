@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvestimentoALongoPrazo", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncadeandoFor", "EncadeandoFor\EncadeandoFor.csproj", "{612B73E1-C8A6-44F7-8C87-653EA7E00C40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplosDeTres", "MultiplosDeTres\MultiplosDeTres.csproj", "{2AED85FC-3846-4426-B429-97C54EC7BDE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{612B73E1-C8A6-44F7-8C87-653EA7E00C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{612B73E1-C8A6-44F7-8C87-653EA7E00C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{612B73E1-C8A6-44F7-8C87-653EA7E00C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AED85FC-3846-4426-B429-97C54EC7BDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AED85FC-3846-4426-B429-97C54EC7BDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AED85FC-3846-4426-B429-97C54EC7BDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AED85FC-3846-4426-B429-97C54EC7BDE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
